@@ -183,12 +183,12 @@ class Images{
   static const rewardsScratchImage = "assets/images/rewardsScratchImage.png";
   // static const gpayLog = "assets/images/gpayLog.svg";
 
-  // static const gpayLog = "assets/images/Artboard 3-optimized.svg";
-  // static const gpayLog2 = "assets/images/lightlo.svg";
+  static const gpayLog = "assets/images/Artboard 3-optimized.svg";
+  static const gpayLog2 = "assets/images/lightlo.svg";
 
   // static const gpayLog = "assets/images/master pay logo-ai (1).png";
-  static const gpayLog2 = "assets/icons/black and white-03.png";
-  static const gpayLog = "assets/icons/black and white-04.png";
+  // static const gpayLog2 = "assets/icons/black and white-03.png";
+  // static const gpayLog = "assets/icons/black and white-04.png";
   // static const gpayLog2 = "assets/images/master pay logo png-01.png";
 
   static const telkom = "assets/images/telkom.png";

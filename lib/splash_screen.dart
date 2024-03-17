@@ -71,7 +71,7 @@ class _SplashScreenState extends State<SplashScreen> {
             ),
             Positioned(
               top: Platform.isAndroid ?Get.height / 2.3:Get.height / 2.4,
-              child: Image.asset(
+              child: SvgPicture.asset(
                 mode?Images.gpayLog2:Images.gpayLog,
                 height: 85,
               ),
